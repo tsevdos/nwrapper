@@ -11,7 +11,7 @@ First of all the plugin (after you load jQuery) just like this :
 `<script type="text/javascript" src="../js/jquery.min.js"></script>
 <script type="text/javascript" src="../js/jquery.nwrapper.js"></script>`
 
-To use it, just select the **parent element** of the elements you want to wrap, choose how often you’ll apply the wrap (wrapEvery attribute – default is 1), choose if you need the default classes or even provide your own extra classes (extraClasses as an array), and finally provied the HTML structured element you’ll use for a wrapper (the default is div, but you can also use a span or any other element).
+To use it, just select the **parent element** of the elements you want to wrap, choose how often you’ll apply the wrap (wrapEvery attribute – default is 1), choose if you need the default classes or even provide your own extra classes (extraClasses as an array), and finally provide the HTML structured element you’ll use for a wrapper (the default is div, but you can also use a span or any other element).
 
 `$('#container').nwrapper({
 	wrapEvery : 2,
