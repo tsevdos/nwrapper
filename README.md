@@ -24,5 +24,6 @@ To use it, just select the **parent element** of the elements you want to wrap, 
 
 Have a look at the [demo page](http://phrappe.com/demos/nwrapper/nwrapper.html "nwrapper jQuery plugin demo page"). For questions or requests don't hesitate to drop me line here (Github) or on [my blog](http://phrappe.com/javascript/nwrapper-jquery-plug-in/ "nwrapper jQuery plug in post").
 
-## MIT License (MIT) ##
-Copyright (C) 2011 John Tsevdos
+## License ##
+
+MIT
